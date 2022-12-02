@@ -1,0 +1,4 @@
+﻿  Bowling.cpp
+C:\Users\n1249\source\repos\Bowling\Bowling\Bowling.cpp(10,7): warning C4101: PreviousAffected: неиспользованная локальная переменная
+C:\Users\n1249\source\repos\Bowling\Bowling\Bowling.cpp(10,25): warning C4101: PrepreviousAffected: неиспользованная локальная переменная
+  Bowling.vcxproj -> C:\Users\n1249\source\repos\Bowling\x64\Debug\Bowling.exe
